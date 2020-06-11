@@ -1,7 +1,7 @@
 #JA 
 ### Geography
 
-I live in Germany.
+I live in Germany. In Erlangen to be precise.
 ### Reading
 
 Three of my favorite books are:
